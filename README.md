@@ -1,5 +1,5 @@
 # ReactJS-NodeJS
-Preview apps : http://dainime.herokuapp.com/#/
+Preview apps : https://dainime.herokuapp.com/
 
 Download anime subtitle Indonesia
 Prequesities:
